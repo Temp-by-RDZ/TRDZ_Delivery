@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Delivery</string>
+    <string name="del">/</string>
+    <string name="_00">00</string>
+    <string name="_000">000</string>
+    <!--System message -->
+    <string name="_0" translatable="false">0</string>
+    <string name="ND_OPEN" translatable="false">ND_OPEN</string>
+    <string name="ND_CLOSE" translatable="false">ND_CLOSE</string>
+    <string name="MISSING" translatable="false">MISSING</string>
+    <string name="fon_description" translatable="false">Pretty Fon</string>
+    <string name="simbol_open_2" translatable="false"><![CDATA[<]]></string>
+    <string name="menu_fake_space" translatable="false">FAKE_SPACE</string>
+    <string name="ERROR_TITLE" translatable="false">NO FILE</string>
+    <string name="nav_food_showcase">Food Showcase</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_basket">Basket</string>
+    <string name="toast_for_m1_error">Connection failed, using saved data.</string>
+    <string name="toast_for_404_error">Data not found</string>
+    <string name="toast_for_m2_error">Internal load was failed</string>
+
+</resources>

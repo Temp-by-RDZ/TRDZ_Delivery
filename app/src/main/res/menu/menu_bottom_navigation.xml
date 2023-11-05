@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_base"
+        android:title="NONE"
+        android:visible="false"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_bottom_navigation_order"
+        android:title="@string/nav_food_showcase"
+        android:icon="@drawable/ic_order"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_bottom_navigation_acount"
+        android:title="@string/nav_account"
+        android:icon="@drawable/ic_account"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_bottom_navigation_basket"
+        android:title="@string/nav_basket"
+        android:icon="@drawable/ic_basket"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- my preferred dimens style -->
+    <dimen name="t_basis">20sp</dimen>
+    <dimen name="t_head_size">35sp</dimen>
+    <dimen name="string_margin">10dp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="margin_micro">5dp</dimen>
+    <dimen name="margin_big">20dp</dimen>
+    <dimen name="margin_giant">60dp</dimen>
+    <dimen name="margin_colosal">150dp</dimen>
+    <dimen name="head_skip">35dp</dimen>
+    <dimen name="text_height">25dp</dimen>
+    <dimen name="float_button_border">5dp</dimen>
+    <dimen name="chip_group_pos">-3dp</dimen>
+    <dimen name="navigation_space">50dp</dimen>
+    <dimen name="navigation_space_bottom">100dp</dimen>
+    <dimen name="button_space">20dp</dimen>
+    <dimen name="fake_button_margin">11dp</dimen>
+    <!-- colors -->
+    <color name="primary">#785447</color>
+    <color name="primaryDark">#5B3F36</color>
+    <!-- app dimensions -->
+    <dimen name="bottom_difference">3dp</dimen>
+    <dimen name="stable_margin">30dp</dimen>
+    <dimen name="stable_margin_half">15dp</dimen>
+    <dimen name="banner_stroke">3dp</dimen>
+    <dimen name="banner_corner_radius">20dp</dimen>
+    <dimen name="line">1dp</dimen>
+    <dimen name="meals_hard_name">70dp</dimen>
+    <dimen name="meals_hard_backet">40dp</dimen>
+    <dimen name="icon_size">28dp</dimen>
+    <dimen name="colosal_space_for_load">400dp</dimen>
+
+</resources>
